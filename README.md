@@ -17,4 +17,26 @@ You are given `n` people, and you need to find the position of the last remainin
 n = 2^(a) + l where a is the largest power of 2 less than n.   
 2l + 1 = position of the last person standing.
 
+
+## Implementation 💻
+
+This repository contains a Python implementation of the Josephus Problem.
+
+### Python Code:
+```python
+import math
+
+while True:
+    try:
+        no_of_soldiers = int(input("Enter no of soldiers:\n"))
+        print("No of soldiers:", no_of_soldiers)
+        l = no_of_soldiers - math.pow(2, int(math.log(no_of_soldiers, 2)))
+        winning_no = int(2 * l + 1)
+        print(f"The person on position {winning_no} is alive!")
+    except ValueError:
+        print("Invalid input. Please enter a valid number.")
+    except Exception as e:
+        print(e)
+
+
  
