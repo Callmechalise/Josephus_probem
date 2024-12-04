@@ -47,4 +47,12 @@ The position of the last person standing is calculated as 2 * l + 1.
 **Output**: The position of the last person remaining.
 
 # Josephus Problem History 📚
-The Josephus Problem was named after the Jewish historian Flavius Josephus. He described a scenario during the Jewish-Roman War in which he and his 40 soldiers were trapped in a cave by Roman soldiers. To avoid capture, they decided to commit suicide by standing in a circle and killing every third person until only one remained. Josephus, not wanting to die, positioned himself in such a way that he was the last person standing.
+The Josephus Problem was named after the Jewish historian Flavius Josephus. He described a scenario during the Jewish-Roman War in which he and his 40 soldiers were trapped in a cave by Roman soldiers. To avoid capture, they decided to commit suicide by standing in a circle and killing every third person until only one remained. Josephus, not wanting to die, positioned himself in such a way that he was the last person standing.    
+This problem has since become a classic example in combinatorics and algorithm design.
+
+# Example 🧩
+```python
+Input:
+Enter no of soldiers:
+7
+
