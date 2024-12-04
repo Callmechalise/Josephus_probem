@@ -37,6 +37,7 @@ while True:
         print("Invalid input. Please enter a valid number.")
     except Exception as e:
         print(e)
+```
 
 Explanation of Code 📜:
 Input: The number of soldiers n.
