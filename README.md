@@ -52,10 +52,12 @@ This problem has since become a classic example in combinatorics and algorithm d
 
 # Example 🧩
 ```python
-Input:
+#Input:
 Enter no of soldiers:
 8
-Output:
+
+
+#Output:
 The person on 1 position is alive!
 ```
 This means that if there are 7 people standing in a circle and every 2nd person is eliminated, the person at position 4 will be the last one remaining.
