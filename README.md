@@ -70,5 +70,9 @@ git clone https://github.com/your_username/josephus-problem.git
 ```terminal
 python josephus_problem.py
 ```       
-**3.**Enter the number of soldiers (n) when prompted, and the program will tell you the position of the last survivor.     
+3.Enter the number of soldiers (n) when prompted, and the program will tell you the position of the last survivor.  
 
+# Contributing 🤝
+If you have ideas for improving the Josephus Problem algorithm or would like to add more features, feel free to fork this repository and create a pull request!   
+#Contributors 💪
+Pabitra Kumar Chalise - Developer and Problem Solver
