@@ -74,5 +74,5 @@ python josephus_problem.py
 
 # Contributing 🤝
 If you have ideas for improving the Josephus Problem algorithm or would like to add more features, feel free to fork this repository and create a pull request!     
-#Contributors 💪     
+# Contributors 💪     
 Pabitra Kumar Chalise - Developer and Problem Solver
