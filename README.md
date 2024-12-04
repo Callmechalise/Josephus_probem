@@ -14,6 +14,7 @@ For example, for `n=7` and `k=3`, the sequence of eliminations will be:
 You are given `n` people, and you need to find the position of the last remaining person if every k-th person is eliminated. For `n` people and a fixed `k=2`, the position of the last person standing can be calculated using the formula:
 
 ### Formula 🔢:
-n = 2^(a) + l where a is the largest power of 2 less than n. 2l + 1 = position of the last person standing.
+n = 2^(a) + l where a is the largest power of 2 less than n.   
+2l + 1 = position of the last person standing.
 
  
