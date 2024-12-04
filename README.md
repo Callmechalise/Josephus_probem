@@ -1,4 +1,4 @@
-# Josephus Problem 💥
+# Josephus Theorm 💥
 
 The **Josephus Problem** is a famous theoretical problem in mathematics and computer science. It describes a situation where people stand in a circle, and every k-th person is eliminated until only one remains. This algorithm helps to determine the position of the last survivor. 
 
