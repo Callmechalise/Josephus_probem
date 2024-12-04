@@ -65,7 +65,8 @@ This means that if there are 7 people standing in a circle and every 2nd person 
 
 # How to Run 🏃‍♂️
 **1. Clone this repository:**
-git clone https://github.com/your_username/josephus-problem.git**
+git clone https://github.com/your_username/josephus-problem.git**    
 **2. Run the script:**
-python josephus_problem.py
-**3.**Enter the number of soldiers (n) when prompted, and the program will tell you the position of the last survivor.
+python josephus_problem.py       
+**3.**Enter the number of soldiers (n) when prompted, and the program will tell you the position of the last survivor.     
+
