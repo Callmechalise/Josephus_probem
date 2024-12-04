@@ -39,9 +39,9 @@ while True:
         print(e)
 ```
 
-Explanation of Code 📜:     
-Input: The number of soldiers n.   
-Process:
+# Explanation of Code 📜:     
+**Input**: The number of soldiers n.   
+**Process**:
 The largest power of 2 less than n is calculated.     
 The position of the last person standing is calculated as 2 * l + 1.    
 Output: The position of the last person remaining.
