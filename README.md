@@ -55,8 +55,9 @@ This problem has since become a classic example in combinatorics and algorithm d
 #Input:
 Enter no of soldiers:
 8
+```
 
-
+```python
 #Output:
 The person on 1 position is alive!
 ```
